@@ -1,0 +1,20 @@
+{
+  "name": "hw5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cassandra-driver": "^4.0.0",
+    "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "mime-lookup": "0.0.2",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1"
+  }
+}
